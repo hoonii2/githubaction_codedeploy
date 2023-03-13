@@ -1,0 +1,62 @@
+[
+  {
+    "name": "⚙ For: API",
+    "color": "e3dede",
+    "description": "For: API"
+  },
+  {
+    "name": "✨ For: Backend",
+    "color": "a2eeef",
+    "description": "For: Backend"
+  },
+  {
+    "name": "🌏 For: CI/CD",
+    "color": "C2E0C6",
+    "description": "For: CI/CD"
+  },
+  {
+    "name": "🎨 For: Frontend",
+    "color": "FEF2C0",
+    "description": "For: Frontend"
+  },
+  {
+    "name": "🐞 Type: Bug",
+    "color": "d73a4a",
+    "description": "Type: Bug"
+  },
+  {
+    "name": "💻 Type: Feature",
+    "color": "C5DEF5",
+    "description": "Type: Feature"
+  },
+  {
+    "name": "📃 Type: Document",
+    "color": "1D76DB",
+    "description": "Type: Document"
+  },
+  {
+    "name": "📬 Type: Maintenance",
+    "color": "D4C5F9",
+    "description": "Type: Maintenance"
+  },
+  {
+    "name": "🔨 Type: Refactor",
+    "color": "f29a4e",
+    "description": "Type: Refactor"
+  },
+  {
+    "name": "🥰 Status: Accessibility",
+    "color": "facfcf",
+    "description": "Status: Accessibility"
+  },
+  {
+    "name": "🙋‍♂️ Status: In Progress",
+    "color": "9ED447",
+    "description": "Status: In Progress"
+  },
+  {
+    "name": "✅ Status: Complete",
+    "color": "ccffc4",
+    "description": "Status: Complete"
+  }
+]
